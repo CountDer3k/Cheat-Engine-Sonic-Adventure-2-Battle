@@ -4,6 +4,8 @@ Cheat Table for Sonic Adventure 2: Battle using [CheatEngine](https://www.cheate
 ### All my cheat tables can be found [here](https://github.com/CountDer3k/Cheat-Engine-Projects).
 ---------
 
+![Sonic Adventure 2:Battle cover](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Sonic_Adventure_2_cover.png/220px-Sonic_Adventure_2_cover.png)
+
 Current Features:
   * Unlimited Rings
   

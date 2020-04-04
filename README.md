@@ -1,5 +1,5 @@
 # Cheat-Engine-Sonic-Adventure-2-Battle
-Cheat Table for Sonic Adventure 2: Battle using [CheatEngine[(https://www.cheatengine.org).
+Cheat Table for Sonic Adventure 2: Battle using [CheatEngine](https://www.cheatengine.org).
 
 ### All my cheat tables can be found [here](https://github.com/CountDer3k/Cheat-Engine-Projects).
 ---------

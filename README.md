@@ -12,3 +12,7 @@ Planned Features:
   * Always 'A' ranking 
   * No Damage
   * Edit Time Counter
+  
+Future Planned Features:
+ * Create a GUI in cheat engine
+ * Create a trainer that hooks into the program
